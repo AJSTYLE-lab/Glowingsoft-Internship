@@ -1,0 +1,1 @@
+If you run .ipynb file just go "Runtime" on google collab and select "Run all" this will run dashboard cell as well.Only dash board cell output will not show unitil you run all cell before.
